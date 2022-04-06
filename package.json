@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "mongodb": "^4.2.1",
+    "nodemon": "^2.0.15"
+  },
+  "name": "agenda_servicio_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon./src/index.js"
+  },
+  "author": "Cristian Sanchez",
+  "license": "ISC",
+  "description": ""
+}
